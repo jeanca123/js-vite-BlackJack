@@ -8,3 +8,6 @@ Pasos para ejecutar proyectos:
 4. Abrir el proyecto en: ```https://localhost:5173```
 
 ## Producción
+
+1. Ejecutar ```npm run build```
+2. Tomar la carpeta ```dist``` y desplegarla
